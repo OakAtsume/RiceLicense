@@ -1,6 +1,6 @@
 RICE LICENSE 
 
-Copyright (c) 2022-present {your_username}
+Copyright (c) 2022-2023 {your_username}
 
 Cloning, modifying, distributing, and forking the repository is allowed.
 When modifying or forking the repository please give credits to CertifiedRice and say that you have modified or forked the repository.
